@@ -5,17 +5,10 @@ Em toda aula inaugural da disciplina, peço para todo mundo responder à seguint
 
 ***"O que você acha que verá na disciplina? Isto é, qual é a sua ideia de Computação Visual?"***
 
-Gosto de saber o que os alunos imaginam que será apresentado e discutido durante as aulas, só pelo nome da disciplina.
+  Ao responder o formulário introduzido no começo da primeira aula, achei que a matéria seria voltada à criação de objetos 3D, utilizando a computação para representar cenários específicos com tais objetos (por exemplo, aplicando as leis da física em um objeto 3D, simulando de forma realistica a sua queda). Acredito que cheguei nesta conclusão parcialmente por conta do background do professor em elaboração de jogos, que utiliza estes conceitos. Além disso, suspeitei levemente que a aula poderia abordar assuntos de front end, como continuação da aula de interação humano-computador.  
 
-É interessante que alguns temas sempre aparecem nas turmas: programação front-end, interfaces gráficas, uma disciplina continuação de IHC, algo relacionado a UI/UX, games, reconhecimento de padrões em imagens, computação gráfica, visão computacional, uso de ferramentas como Photoshop e Blender...
+  Depois da introdução sobre a matéria, entendi que o escopo da matéria é muito mais amplo do que eu inicalmente imaginava. Isto dito, achei interesssante o conteúdo, pois se trata de coisas que aparecem frequentemente no cotidiano
 
-Acho que é uma curiosidade minha, porque eu mesmo não sabia exatamente qual era o conteúdo da disciplina quando fui alocado para ministrá-la. Em um primeiro momento, até pensei *"Quando que renomearam a área de Computação Gráfica para Computação Visual? Perdi alguma coisa?"*
-
-Mas aí recebi o plano de ensino e as coisas fizeram sentido.
-
-Eu estava acostumado a sempre ver as áreas de Computação Gráfica, Visão Computacional e Processamento de Imagens como disciplinas específicas dos cursos de graduação e pós-graduação, mas não sob um mesmo "guarda-chuva" chamado Computação Visual. Até tenho um livro chamado *Visual Computing: Geometry, graphics, and vision*, escrito pelo Frank Nielsen e publicado pela Charles River Media em 2005, mas sempre o considerei como uma obra mais relacionada à Computação Gráfica 3D.
-
-Enfim...
 
 ---
 [Voltar à página inicial](index.md)
