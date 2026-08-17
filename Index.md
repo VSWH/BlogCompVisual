@@ -17,8 +17,5 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 
 ## Posts
 
-[1. Computação Visual?](01_cv.md) (12/08/2026)
+[1. Computação Visual?](post1.md) (12/08/2026)
 
-## Blogs dos alunos
-
-- TODO
