@@ -18,6 +18,6 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 ## Posts
 
 [1. Computação Visual?](post1.md) (12/08/2026) <br>
-[2. Fundamentos da Imagem e Pixels](post2.md) (18/08/2026)
-
+[2. Fundamentos da Imagem e Pixels](post2.md) (18/08/2026) <br>
+[4. Fundamentos da Imagem e Pixels](post4.md) (18/08/2026)
 
