@@ -1,6 +1,6 @@
-# Fundamentos da Imagem e Pixels
+# Análise e Equalização de Histogramas em Processamento Digital de Imagens
 **18/08/2026**
-markdown_content = """# Análise e Equalização de Histogramas em Processamento Digital de Imagens
+
 
 O estudo do **Processamento Digital de Imagens (PDI)** fundamenta-se, em grande parte, na manipulação estatística dos pixels que compõem uma matriz visual. Com base nas diretrizes clássicas da literatura da área (GONZALES; WOODS, 2010), a análise de histogramas constitui uma ferramenta indispensável para o realce visual, a extração de métricas estatísticas e o suporte a processos de segmentação e compressão.
 
