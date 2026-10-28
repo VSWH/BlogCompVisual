@@ -1,5 +1,5 @@
 # Redimensionamento de Imagens Digitais
-**21/10/2026**
+**27/10/2026**
 
 
 ## Introdução
