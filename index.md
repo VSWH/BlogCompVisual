@@ -20,4 +20,5 @@ Para os alunos verem um exemplo dessa atividade, resolvi criar o meu blog també
 [1. Computação Visual?](post1.md) (12/08/2026) <br>
 [2. Fundamentos da Imagem e Pixels](post2.md) (18/08/2026) <br>
 [4. Como Ensinar um PC a Desenhar: Recursos](post4.md) (15/09/2026)
-
+[6. Ilusões de Ótica e a Percepção Visual Humana](post6.md) (21/10/2026)
+[7. Redimensionamento de Imagens Digitais](post7.md) (21/10/2026)
